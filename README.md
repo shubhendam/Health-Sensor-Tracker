@@ -77,7 +77,7 @@ streamlit run main.py
 
 
 ### Sample Screen Shot:
-![Screenshot](asset/Screenshot (25).png)
+![Screenshot](assets/Screenshot (25).png)
 
 ## 4. Future Enhancements
 1. Calibrate sensor data to extract better accuracy to calculate Steps
