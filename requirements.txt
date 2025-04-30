@@ -1,0 +1,10 @@
+streamlit
+sqlalchemy
+fastapi
+uvicorn
+passlib
+websocket
+websocket-client
+numpy
+bcrypt
+requests
