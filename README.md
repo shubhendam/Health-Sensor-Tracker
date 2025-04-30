@@ -1,7 +1,4 @@
 # Health-Sensor-Tracker
-GenAI powered Health Sensor Tracker app
-
-# Health-Sensor-Tracker
 
 ## 1. Activity Tracker – GenAI-Powered Wellness Assistant
 
