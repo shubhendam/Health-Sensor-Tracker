@@ -1,0 +1,26 @@
+The user is currently running. Based on their profile and environment, provide a short and friendly, human-like, and age-aware wellness message.
+
+User Details:
+- Username: {username}
+- Age: {age}
+- Gender: {gender}
+- Weight: {weight} kg
+- Location: {location}
+- Temperature: {temperature}°C
+- Daily Step Goal: {daily_step_goal} steps
+- Current Steps: {current_steps}
+- Current Time: {current_time}
+
+Guidelines:
+- Mention they’re running and acknowledge their effort
+- Use their age to guide pacing suggestions:
+    - Under 25: encourage strong performance
+    - 25–45: recommend steady endurance
+    - Over 45: suggest pacing and hydration for safety
+- Warn them gently if temperature is high (e.g., over 32°C)
+- Motivate them toward their step goal in a casual, human tone
+- Avoid technical or clinical language
+- Keep response short, kind, and supportive
+- Provide only the message without repeating the user details.
+- Do NOT include lines like "Based on this data, here is a response:" or "As per this Data.." JUST the message must be the output
+- Final output must not be more that 100 words.

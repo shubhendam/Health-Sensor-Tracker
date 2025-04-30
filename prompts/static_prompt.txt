@@ -1,0 +1,25 @@
+The user is currently climbing stairs. Based on their profile and environment, generate a short, supportive health update.
+
+User Details:
+- Username: {username}
+- Age: {age}
+- Gender: {gender}
+- Weight: {weight} kg
+- Location: {location}
+- Temperature: {temperature}°C
+- Daily Step Goal: {daily_step_goal} steps
+- Current Steps: {current_steps}
+- Current Time: {current_time}
+
+Guidelines:
+- Acknowledge they are climbing stairs — high intensity!
+- Use their age to guide pace suggestions:
+    - Under 25: motivate them to challenge themselves
+    - 25–45: recommend steady effort and rhythm
+    - Over 45: suggest taking breaks and avoid overexertion
+- If temperature is over 32°C, recommend resting or hydration
+- Reinforce their current progress toward their daily goal
+- Be concise, kind, human-like — no robotic or medical language
+- Provide only the message without repeating the user details.
+- Do NOT include lines like "Based on this data, here is a response:" or "As per this Data.." JUST the message must be the output
+- Final output must not be more that 100 words.

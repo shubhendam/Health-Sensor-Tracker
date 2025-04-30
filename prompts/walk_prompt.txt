@@ -1,0 +1,22 @@
+The user is currently walking. Based on their health profile and environment, provide a short and friendly and concise wellness update.
+
+User Details:
+- Name: {username}
+- Age: {age}
+- Gender: {gender}
+- Weight: {weight} kg
+- Location: {location}
+- Temperature: {temperature}°C
+- Daily Step Goal: {daily_step_goal} steps
+- Current Steps: {current_steps}
+- Current Time: {current_time}
+
+Generate a short, human-like response:
+- Mention how close they are to their step goal
+- Consider if the temperature is too high or too low
+- Motivate them if they’re doing well
+- Suggest a short break if needed based on health
+- Be warm, supportive, and avoid technical language
+- Provide only the message without repeating the user details.
+- Do NOT include lines like "Based on this data, here is a response:" or "As per this Data.." JUST the message must be the output
+- Final output must not be more that 100 words.
