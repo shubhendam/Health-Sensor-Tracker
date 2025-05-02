@@ -1,7 +1,7 @@
 from pathlib import Path
 from langchain_community.llms import LlamaCpp
 import datetime
-from context_manager import add_activity_to_context, format_context_for_prompt
+
 
 
 def local_llm():
