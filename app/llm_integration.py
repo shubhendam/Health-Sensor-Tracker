@@ -14,7 +14,7 @@ def local_llm():
         top_p=0.95,
         n_ctx=2048,
         n_batch=16,
-        n_threads=4,  # Adjust based on CPU
+        n_threads=4,  
         verbose=False
     )
 
